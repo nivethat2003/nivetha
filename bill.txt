@@ -1,0 +1,15 @@
+						------------------------NIVI CINEMAS-------------------
+
+*
+								2024-07-06 15:45:37.579860
+NAME:	nivetha
+EMAIL:	nivetha142003@gmail.com
+MOVIE:	ghilli
+DATE:	06/07/2024
+SHOWTIME:	night show
+NO_OF_TICKETS:	2
+CLASS:	1
+TOTAL:	354.0
+*
+
+						----------------THANK YOU BOOKING TICKETS IN NIVI CINEMAS--------------
